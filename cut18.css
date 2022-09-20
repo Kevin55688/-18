@@ -78,4 +78,5 @@ body {
 .local .txt:before{
     border-left: 10px solid #3e92cc;
     right: -10px;
+    
 }
